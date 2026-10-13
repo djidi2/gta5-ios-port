@@ -1,0 +1,1 @@
+https://github.com/djidi2/gta5-ios-port/releases/download/v1.0.0/game.wasm
